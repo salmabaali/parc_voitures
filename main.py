@@ -8,3 +8,4 @@ voiture4 = Voitures("Tesla", "Model 3", "TES123")
 mon_parc.sortirVoiture(voiture2)
 print("Places libres :", mon_parc.calculerNbrPlacesLibres())
 print("Places libres après entrée des voitures :", mon_parc.calculerNbrPlacesLibres())
+# Programme principal pour gérer le parc de voitures
